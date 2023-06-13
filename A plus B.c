@@ -7,6 +7,6 @@ sum=a+b;
 if(1<=a,b<=100){
     printf("A+B=%d",sum);
 }
-
+    printf("hello ");
 return 0;
 }
